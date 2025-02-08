@@ -1,0 +1,26 @@
+model_name,max_output_tokens,company,launch_date,max_input_tokens,max_output_as_percentage_of_max_input,release-type
+Claude 3.5 Sonnet,8192,Anthropic,2024-06-20,200000,4.10,Fixed
+Claude 3.5 Haiku,8192,Anthropic,2024-10-22,200000,4.10,Fixed
+Claude 3 Opus,4096,Anthropic,2024-03-14,200000,2.05,Fixed
+Claude 3 Sonnet,4096,Anthropic,2024-03-14,200000,2.05,Fixed
+Claude 3 Haiku,4096,Anthropic,2024-03-07,200000,2.05,Fixed
+command-r7b-12-2024,4000,Cohere,2024-12-01,128000,3.13,Fixed
+command-r-plus-08-2024,4000,Cohere,2024-08-01,128000,3.13,Fixed
+Gemini 2.0 Flash,8192,Google,2025-02-05,1000000,0.82,Fixed
+Gemini 2.0 Flash-Lite Preview,8192,Google,2025-02-05,1000000,0.82,Fixed
+Gemini 1.5 Flash,8192,Google,2024-05-14,1000000,0.82,Fixed
+Gemini 1.5 Flash 8B,8192,Google,2024-10-08,1000000,0.82,Fixed
+Gemini 1.5 Pro,8192,Google,2024-05-23,1000000,0.82,Fixed
+gpt-4o,16384,OpenAI,2024-11-06,128000,12.80,Fixed
+chatgpt-4o-latest,16384,OpenAI,2024-11-06,128000,12.80,Fixed
+gpt-4o-mini,16384,OpenAI,2024-11-06,128000,12.80,Fixed
+o1,100000,OpenAI,2024-11-06,1000000,10.00,Fixed
+o1-mini,65536,OpenAI,2024-11-06,1000000,6.55,Fixed
+o1-preview,32768,OpenAI,2024-11-06,1000000,3.28,Fixed
+gpt-4-turbo,4096,OpenAI,2023-11-06,128000,3.20,Fixed
+gpt-4-turbo-preview,4096,OpenAI,2023-11-06,128000,3.20,Fixed
+gpt-4,8192,OpenAI,2023-03-14,8192,100.00,Fixed
+gpt-4-0613,8192,OpenAI,2023-06-13,8192,100.00,Fixed
+gpt-4-0314,8192,OpenAI,2023-03-14,8192,100.00,Fixed
+Deep Seek V3,8000,Deep Seek,2025-01-20,32768,24.41,Rolling
+Deep Seek Reasoner,32768,Deep Seek,2025-01-20,32768,100,Rolling

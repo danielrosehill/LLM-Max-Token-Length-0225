@@ -1,0 +1,12 @@
+model name,max output tokens
+gpt-4o,16384
+chatgpt-4o-latest,16384
+gpt-4o-mini,16384
+o1,100000
+o1-mini,65536
+o1-preview,32768
+ gpt-4-turbo,4096
+gpt-4-turbo-preview,4096
+gpt-4,8192
+gpt-4-0613,8192
+gpt-4-0314,8192

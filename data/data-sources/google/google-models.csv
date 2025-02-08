@@ -1,0 +1,6 @@
+model-name,max-output-tokens
+Gemini 2.0 Flash,"8,192"
+Gemini 2.0 Flash-Lite Preview,"8,192"
+Gemini 1.5 Flash,"8,192"
+Gemini 1.5 Flash 8B,"8,192"
+Gemini 1.5 Pro,"8,192"

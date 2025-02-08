@@ -1,0 +1,24 @@
+model_name,max_input_tokens,max_output_tokens,company,output_as_percent_input
+Claude 3.5 Sonnet,400000,8192,Anthropic,2.05%
+Claude 3.5 Haiku,400000,8192,Anthropic,2.05%
+Claude 3 Opus,400000,4096,Anthropic,1.02%
+Claude 3 Sonnet,200000,4096,Anthropic,2.05%
+Claude 3 Haiku,200000,4096,Anthropic,2.05%
+command-r7b-12-2024,32000,4000,Cohere,12.50%
+command-r-plus-08-2024,128000,4000,Cohere,3.13%
+Gemini 2.0 Flash,1500000,8192,Google,0.55%
+Gemini 2.0 Flash-Lite Preview,1500000,8192,Google,0.55%
+Gemini 1.5 Flash,1500000,8192,Google,0.55%
+Gemini 1.5 Flash 8B,1500000,8192,Google,0.55%
+Gemini 1.5 Pro,1500000,8192,Google,0.55%
+gpt-4o,128000,16384,OpenAI,12.80%
+chatgpt-4o-latest,128000,16384,OpenAI,12.80%
+gpt-4o-mini,128000,16384,OpenAI,12.80%
+o1,100000,100000,OpenAI,100.00%
+o1-mini,65536,65536,OpenAI,100.00%
+o1-preview,32768,32768,OpenAI,100.00%
+gpt-4-turbo,128000,4096,OpenAI,3.20%
+gpt-4-turbo-preview,128000,4096,OpenAI,3.20%
+gpt-4,8192,8192,OpenAI,100.00%
+gpt-4-0613,8192,8192,OpenAI,100.00%
+gpt-4-0314,8192,8192,OpenAI,100.00%
