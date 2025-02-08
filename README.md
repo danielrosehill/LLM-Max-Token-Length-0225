@@ -4,8 +4,8 @@ This analysis shows the evolution of maximum output tokens across different AI l
 
 ## Visualization
 
-![Maximum Output Tokens by Model Over Time](plots/max_tokens_plot.png)
-
+ ![alt text](charts/plots.png)
+ 
 ## Repository Structure
 
 - `data/`: Contains the primary dataset and source data
