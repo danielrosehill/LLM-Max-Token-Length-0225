@@ -4,8 +4,20 @@ This analysis shows the evolution of maximum output tokens across different AI l
 
 ## Visualization
 
- ![alt text](charts/plots.png)
- 
+### Max Output Tokens / Time
+
+ ![alt text](charts/plot-1.png)
+
+ ### Chart 1 With Connections To Show Per-Company Evolution
+
+This chart really highlights how OpenAI, with their recently released o1 series, have brought the first significant advances to the `max output tokens` parameter.
+
+While models like the Gemini series have amazing context sizes of 1M+ tokens, their max single output remains a very diminuitive 8,192 tokens (0.008%!).
+
+The maximum output size is highly relevant when debugging or creating long code projects in which even with agentic coding capabilities that only update part of a long file at a time, the constraint can make `write-to-file` type commands non-functional due to continuous output constraints:
+
+ ![alt text](charts/plot-2.png)
+
 ## Repository Structure
 
 - `data/`: Contains the primary dataset and source data
