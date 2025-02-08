@@ -1,6 +1,4 @@
-# LLM-API-Analysis
-
-# Maximum Output Tokens Analysis
+# LLMs By Max Output Token - Feb 2025
 
 This analysis shows the evolution of maximum output tokens across different AI language models and companies. The visualization uses a logarithmic scale to better display the wide range of token values (4,000 to 100,000) and includes trend lines to show each company's progression over time. Models with 32K+ tokens are labeled directly on the plot for easy reference.
 
